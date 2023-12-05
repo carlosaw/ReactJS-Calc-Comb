@@ -1,0 +1,56 @@
+* {
+    background-color: #5C3F89;
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+}
+
+.general-area {
+    border: 1px solid #fff;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.fuel-fields {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #111;
+    color: #fff;
+    cursor: pointer;
+    outline: 0;
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.fuel-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fuel-image img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+
+.fuel-form {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: .3rem;
+    border-radius: 15px;
+}
