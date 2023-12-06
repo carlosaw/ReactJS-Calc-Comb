@@ -75,3 +75,10 @@ button:hover {
     border-radius: 15px;
     background-color: #000;
 }
+
+@media (max-width: 505px) {
+    .ticket h1 {
+        color: #000;
+        font-size: 25px;
+    }
+}
