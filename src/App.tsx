@@ -25,7 +25,11 @@ function App() {
 
     return (
         <>
+            <div className="ticket">
+                <h1>Cortesia AW Regulagens</h1>
+            </div>
             <div className="general-area">
+
                 <div className="fuel-image">
                     <img src="combustivel.png" alt="" />
                 </div>
